@@ -16,7 +16,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-default['chef-server']['version'] = :latest
+default['chef-server']['version'] = 11.0.8
 default['chef-server']['prereleases'] = false
 default['chef-server']['nightlies'] = false
 default['chef-server']['package_file'] = nil
